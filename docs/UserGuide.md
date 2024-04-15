@@ -1,4 +1,4 @@
-# EconoCraft Pro v2.0 
+# EconoCraft Pro v2.1
 # User Guide
 
 ## Table of Contents
@@ -445,12 +445,6 @@ current health: |##########| 100%
 current money: 5000
 you need $95000 more to win the game
 ===========================================================================
-Current round: 1
-you have 19 rounds left before the game ends!
-===========================================================================
-You have 1 action left
-Input your action! If needed, type 'help' for more info
-===========================================================================
 ```
 
 #### Company Status
@@ -533,12 +527,14 @@ Player can also type `status` to check the stock that they are currently holding
 ```
 ============================================================
 Current Status:
-Your name is :xia
-occupation :Semi-conductor
-current health :100
-current asset: 800
+Your name is: XIA
+occupation: Robotics
+current health: |#####     | 50%
+current money: $974630, you need $25370 more to win the game
+============================================================
+Your current investments are: 
 Microsoft (Multi-national cooperation) 
- currently share count : 10
+currently share count : 10
 ============================================================
 ```
 
@@ -754,6 +750,6 @@ If you are stuck, you can use the `help` command to see a list of commands that 
 **Q**: Can I transfer my game record to another computer?
 
 **A**: Yes you can! The record is stored as `PlayerProfile.json` in `data` folder. The data in json file will be restored
-by loader class during initialization, if the folder is empty, the program will open a new record. To transfer the
+by `Loader` class during initialization, if the folder is empty, the program will open a new record. To transfer the
 record, you can copy your current json file into `data` folder at your new computer.
 
