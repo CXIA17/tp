@@ -23,6 +23,7 @@ Given below are my contributions to the project:
 
 * **New Features**: Added status commands that allow players to check their status.
 * **New Features**: Added help command that allows players to check the available commands.
+<div style="page-break-after: always;"></div>
 
 * **Code Quality Enhancement**: Abstracted main components of the project. [#30](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/30) [#80](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/80)
     * What it does: adds interfaces to manage the commands, miniGames, and random events.
