@@ -7,6 +7,8 @@ This is a fun game that is full of uncertainty and excitement, which helps user 
 
 Given below are my contributions to the project:
 
+* **Code contributed**: [RepoSense link](https://nus-cs2113-ay2324s2.github.io/tp-dashboard/?search=zminghuiz&breakdown=true&sort=groupTitle%20dsc&sortWithin=title&since=2024-02-23&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other)
+
 * **New Features**: Added a typing game to simulate the player's work action when player typed `work` in terminal.
   * What it does: allows users to type in the command to simulate the work action by playing a typing game.
   * Justification: provides a more interactive way for users to simulate the work action, making the game more engaging.
@@ -21,7 +23,6 @@ Given below are my contributions to the project:
 
 * **New Features**: Added status commands that allow players to check their status.
 * **New Features**: Added help command that allows players to check the available commands.
-<div style="page-break-after: always;"></div>
 
 * **Code Quality Enhancement**: Abstracted main components of the project. [#30](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/30) [#80](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/80)
     * What it does: adds interfaces to manage the commands, miniGames, and random events.
@@ -32,9 +33,6 @@ Given below are my contributions to the project:
 * **General Contribution**:
   * Designed the general logic of the application.
   * Refactored the code structure to improve the code quality. [#24](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/24) [#156](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/156)
-
-
-* **Code contributed**: [RepoSense link](https://nus-cs2113-ay2324s2.github.io/tp-dashboard/?search=zminghuiz&breakdown=true&sort=groupTitle%20dsc&sortWithin=title&since=2024-02-23&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other)
 
 
 * **Project management**:
