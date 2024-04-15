@@ -28,15 +28,12 @@ command.
 - Designed and implemented virtual stock market inside the game where users can 
 purchase stock through `stock` command and sell all the stock they possess by `sellstock` command.
   [PR #81](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/81)
-  - What it does: Allow users to purchase stock based on the current money they possess and the market
-  information they have access to. Player can gain or lose money inside the virtual stock market.
 - Made the virtual crypto and bond market more playable by setting different properties to both of the
 markets and invoked uncertain events inside each of the markets.
   [PR #166](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/166)
   - What it does: Enables user from gaining financial returns at the end of every round.
 - Allow the program to sum up player's performance in different markets at the end of each round.
   [PR #175](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/175)
-  - What it does: Sums up player's performance in investments for the last round.
 ### Project management
 - Managed release v1.0 and v2.0 on github.
 
