@@ -1,11 +1,8 @@
 # Project Portfolio Page
 
 ## Overview
-Our group have constructed an game to mimic user's daily life in working and investing.
-EconoCraft is a single player text adventure game where a player takes on the role of a business owner or manager,
-tasked with growing their company from a small startup to a large corporation. The game would simulate real-world
-business challenges, including resource management, market analysis, product development, and financial planning to
-help students prepare for the future challenges.
+EconoCraft is a single player text adventure game where a player would start form from trying to achieve work-life balance to managing financial assets and a company.
+This is a fun game that is full of uncertainty, which helps user to raise their financial awareness and management skills.
 
 ## Link for code contribution:
 [RepoSense link](https://nus-cs2113-ay2324s2.github.io/tp-dashboard/?search=cxia17&breakdown=true&sort=groupTitle%20dsc&sortWithin=title&since=2024-02-23&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other)
@@ -50,17 +47,15 @@ markets and invoked uncertain events inside each of the markets.
 ### Feature enhancement
   - Wrote additional test cases to obtain a 100% method coverage to `stockCommand`, `sellStockCommand`
   `restCommand`, `stockActivate`, `stockStorage`, and `TrueFalseGame` class. 
-
-    [PR #195](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/195)
+[PR #195](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/195)
 
 ### Documentation
-Added documentation to all public methods relating to the virtual stock market feature, True&False game
-feature, and asset management features.
+Added documentation to all public methods relating to the virtual stock market, True&False game
+, and asset management features.
 [PR #200](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/200)
 
 ### Community contribution
 - Actively communicating within the group to find bugs and potential improvements to the program.
-- Organised multiple group meetings to share our thoughts and brainstorm ideas and features.
 - Organised multiple internal smoke tests and Beta tests to strengthen the test coverage of our program.
 - Improved class test coverage and method test coverage from 50% to 78% and 70%.
   [PR-branchTest](https://github.com/AY2324S2-CS2113-T11-4/tp/pull/195)
